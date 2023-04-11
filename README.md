@@ -5,7 +5,7 @@
 # Youtube-Clone
 A web application video player and a clone of youtube where user can enjoy watching movie or listening songs and many more. 
 
-###Tech Stacks
+### Tech Stacks
 
 #### * HTML
 #### * CSS
